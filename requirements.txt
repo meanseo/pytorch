@@ -4,7 +4,7 @@ certifi==2020.6.20
 chardet==3.0.4
 click==7.1.2
 Flask==1.1.2
-Flask-RESTful==0.3.8
+Flask-RESTful==0.3.9
 folium==0.12.1
 googlemaps==4.4.5
 google-colab
