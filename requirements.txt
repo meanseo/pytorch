@@ -9,7 +9,7 @@ folium==0.12.1
 googlemaps==4.4.5
 google-colab
 html5lib
-icecream==2.1.1
+icecream==2.1.2
 idna==2.10
 itsdangerous==1.1.0
 imageio
