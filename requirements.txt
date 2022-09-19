@@ -10,7 +10,7 @@ googlemaps==4.4.5
 google-colab
 html5lib
 icecream==2.1.1
-idna==2.10
+idna==3.4
 itsdangerous==1.1.0
 imageio
 Jinja2==2.11.2
