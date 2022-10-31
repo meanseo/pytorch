@@ -11,7 +11,7 @@ google-colab
 html5lib
 icecream==2.1.1
 idna==2.10
-itsdangerous==1.1.0
+itsdangerous==2.1.2
 imageio
 Jinja2==2.11.2
 JPype1
