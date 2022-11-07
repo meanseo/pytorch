@@ -13,7 +13,7 @@ icecream==2.1.1
 idna==2.10
 itsdangerous==1.1.0
 imageio
-Jinja2==2.11.2
+Jinja2==3.1.2
 JPype1
 jsonify==0.5
 jupyter==1.0.0
