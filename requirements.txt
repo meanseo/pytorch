@@ -5,7 +5,7 @@ chardet==3.0.4
 click==7.1.2
 Flask==1.1.2
 Flask-RESTful==0.3.8
-folium==0.12.1
+folium==0.14.0
 googlemaps==4.4.5
 google-colab
 html5lib
