@@ -19,7 +19,7 @@ jsonify==0.5
 jupyter==1.0.0
 konlpy==0.5.2
 lxml
-MarkupSafe==1.1.1
+MarkupSafe==2.1.5
 mccabe
 mysql-connector
 nltk
